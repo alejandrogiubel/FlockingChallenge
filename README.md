@@ -6,3 +6,13 @@ El juego fué diseñado para ser jugado con Joystick. Se recomienda el uso de es
   *Right Stick - Apuntar
   *RB - Disparar
   *LB - Alejar cámara
+
+Lista de compras
+---------------
+* Frutas
+  * Manzanas
+  * Naranjas
+  * Uvas
+* Lácteos
+  * Leche
+  * Queso
