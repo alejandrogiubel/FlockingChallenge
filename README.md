@@ -12,7 +12,7 @@ http://www.vergenet.net/~conrad/boids/pseudocode.html
 
 ## Entorno utilizado
 
-* Unity 3D. 2019.3.13
+* Unity 3D 2019.3.13
 * Visual Studio code
 * Photoshop
 * Paint (jejeje)
