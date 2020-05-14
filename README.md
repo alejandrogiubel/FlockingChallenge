@@ -10,6 +10,13 @@ Todos los audios utilizados fueron descargados de https://freesound.org/
 Para desarrollar el algoritmo flocking se utilizó el pseudocódigo descrito en este artículo
 http://www.vergenet.net/~conrad/boids/pseudocode.html
 
+## Entorno utilizado
+
+* Unity 3D. 2019.3.13
+* Visual Studio code
+* Photoshop
+* Paint (jejeje)
+
 ## El juego fué diseñado para ser jugado con Joystick. Se recomienda el uso de este para una mejor experiencia.
 
 * Controles
